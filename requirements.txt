@@ -1,0 +1,3 @@
+# Biblioteca padrão: CSV, Decimal, SQLite, unittest e arquivos temporários.
+# Necessário para importar o adaptador Selenium de referência; a demo não abre Chrome.
+selenium==4.46.0
